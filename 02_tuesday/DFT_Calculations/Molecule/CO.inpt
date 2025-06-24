@@ -3,7 +3,7 @@
 CELL: 20 20 20
 
 # Spacing between two grid points (in bohr)
-MESH_SPACING: 0.30
+MESH_SPACING: 0.35
 
 
 # Boundary condition
